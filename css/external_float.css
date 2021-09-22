@@ -1,0 +1,40 @@
+/*.parent{
+	position: relative;
+}*/
+
+html{
+	height: 200vh;
+}
+
+div{
+	float: left;
+}
+
+img{
+	float: left;
+}
+
+.first{
+	background-color: cadetblue;
+	width: 100px;
+	height: 100px;
+}
+
+.second{
+	background-color: slateblue;
+	width: 100px;
+	height: 100px;
+
+}
+
+.third{
+	background-color: palevioletred;
+	width: 100px;
+	height: 100px;
+}
+
+.span{
+	background-color: black;
+	color: white;
+	text-decoration: underline;
+}
